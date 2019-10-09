@@ -68,3 +68,12 @@ To install these programs you need :
 |---|---|---|---|---|---|
 |[<img src="https://github.com/smarlhens/tools/blob/master/icons/filezilla.png" width="100" alt="filezilla"/>](https://filezilla-project.org/)|FileZilla|[Download](https://filezilla-project.org/download.php?show_all=1)|Yes|Yes|-|
 |[<img src="https://github.com/smarlhens/tools/blob/master/icons/mobaxterm.png" width="100" alt="mobaxterm"/>](https://mobaxterm.mobatek.net/)|MobaXterm|[Download](https://mobaxterm.mobatek.net/download-home-edition.html)|Yes|-|-|
+
+## Messaging
+|Logo|Tool|Download|Free|Open-source|Freeware|
+|---|---|---|---|---|---|
+|[<img src="https://github.com/smarlhens/tools/blob/master/icons/discord.png" width="100" alt="discord"/>](https://discordapp.com/)|Discord|[Download](https://discordapp.com/download)|Yes|-|-|
+|[<img src="https://github.com/smarlhens/tools/blob/master/icons/keybase.png" width="100" alt="keybase"/>](https://keybase.io/)|Keybase|[Download](https://keybase.io/download)|Yes|Yes|-|
+|[<img src="https://github.com/smarlhens/tools/blob/master/icons/mattermost.png" width="100" alt="mattermost"/>](https://mattermost.com/)|Mattermost *Team Edition*|[Download](https://mattermost.com/download/mattermost)|Yes|Yes|-|
+|[<img src="https://github.com/smarlhens/tools/blob/master/icons/rocket-chat.png" width="100" alt="rocket-chat"/>](https://rocket.chat/)|Rocket.Chat|[Download](https://github.com/RocketChat/Rocket.Chat.Electron/releases/)|Yes|Yes|Yes|
+|[<img src="https://github.com/smarlhens/tools/blob/master/icons/slack.png" width="100" alt="slack"/>](https://slack.com)|Slack|[Download](https://slack.com/downloads/)|Yes|-|-|
