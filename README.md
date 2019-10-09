@@ -9,6 +9,7 @@
 - [Shell](#shell)
 - [Password manager](#password-manager)
 - [FTP/SFTP](#ftpsftp)
+- [Messaging](#messaging)
 
 ---  
 
@@ -17,6 +18,8 @@
 This repository presents software that I use and that I find useful in my profession. They are not all free, neither royalty-free nor open-source. 
 
 This repository is in no way an advertisement for these software, it just allows me to reference the download links to go faster when setting up my development environment.
+
+There may be incorrect information or invalid links. Feel free to notify me with an issue or pull request.
 
 ### Prerequisites
 
